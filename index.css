@@ -1,0 +1,100 @@
+* 
+	{ 
+	font-family: Montserrat; 
+	line-height: 200%;
+	padding: 0px;
+	margin: 0px;
+	}
+	
+	body
+	{
+	}
+	#container 
+	{
+	margin: auto; 
+	}
+	
+	#banner
+	{
+	clear:both; 
+	height: 600px;
+	background-position: center bottom;
+	background-image: url('http://newjersey.dancealotballroom.com/wp-content/uploads/2011/10/faqbg.jpg');
+	}
+	
+	#shadow
+	{
+	position:absolute;
+	top:0px;
+	clear:both; 
+	height: 600px;
+	width: 100%;
+	background-position: center bottom;
+	background-color: black;
+	opacity: 0.5;
+	}	
+	
+	#overlay
+	{
+	position:absolute;
+	top:0px;
+	clear:both; 
+	height: 600px;
+	width: 100%;
+	background-position: center bottom;
+	color:#ddd;
+	text-align: center;
+	}	
+	
+	#overlay_text > h1
+	{
+	clear: both;
+	width: 400px;
+	padding: 10px;
+	border: #ddd solid;
+	margin: auto;
+	margin-top: 200px;
+	vertical-align: center;
+	}
+
+	#overlay_text > div
+	{
+	font-weight: lighter;
+	font-size: 30px;
+	padding-top: 50px;
+	}
+	
+	#overlay_nav
+	{
+	position:absolute;
+	right:50px;
+	color:#eee;
+	text-align: right;
+	margin-top: 50px;
+	}
+	
+	#overlay_nav > div
+	{
+	float: right;
+	padding-right: 30px;
+	font-size: 20px;
+	}
+	
+	#main 
+	{
+	width: 60%;
+	text-align: center;
+	margin: auto;
+	margin-top: 90px;
+	}
+	
+	#main h1,h2,h3,h4
+	{
+	font-family: "Homemade Apple";
+	font-style: italic;
+	font-weight: normal;
+	}
+	#footer 
+	{
+	clear: both;
+	}
