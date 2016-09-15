@@ -15,7 +15,7 @@ For this project, I had to:
 - Create a screen cast 
 - Launch my live site! 
 
-# Demo: [Screencast demo](http://www.youtube.com)
+# Demo: [Screencast demo](https://youtu.be/LCsrAHwLNDU)
 
 # Any details the instructor or TA needs to know about using your project.
 
