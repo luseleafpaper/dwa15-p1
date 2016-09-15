@@ -98,3 +98,7 @@
 	{
 	clear: both;
 	}
+	.bubble_img 
+	{
+	border-radius: 50%;
+	} 
