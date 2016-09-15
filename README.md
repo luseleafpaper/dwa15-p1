@@ -2,7 +2,7 @@
 
 Hi, my name is Lu, and this is my proof of concept project for DWA15. I'm looking forward to learn more about the tools that many of my web developer friends use on a daily basis. My goal for the class is to improve my ability to complete projects quickly and efficiently by learning skills like git and server setup. My day job is data engineering, so I feel that what I learn from this class will be great to apply to future projects. 
 
-# Live Site: [p1.luseleafpaper.com](p1.luseleafpaper.com)
+# Live Site: [p1.luseleafpaper.com](http://p1.luseleafpaper.com)
 
 # Project Description
 
@@ -15,7 +15,7 @@ For this project, I had to:
 - Create a screen cast 
 - Launch my live site! 
 
-# Demo: [Screencast demo](www.youtube.com)
+# Demo: [Screencast demo](http://www.youtube.com)
 
 # Any details the instructor or TA needs to know about using your project.
 
