@@ -27,4 +27,6 @@ I used 3rd party software to screencast:  RecordMyDesktop from Ubuntu 16.06 to c
 
 The web server I'm running is the standard Apache web server, installed via apt-get apache2 
 
+I used a test photo from lolcatz.com, all credits go to the photographers there. 
+
 Since this project is simple, I didn't use any external code in my repository. The index.html of my portfolio is very straightforward, and the index.css is my "sandbox" css file. The picture is one I took at a friend's wedding. 
